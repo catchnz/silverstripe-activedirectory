@@ -204,7 +204,7 @@ class LDAPMemberExtension extends DataExtension
     }
 
     /**
-     * Write DataObject without triggering this extension's hooks.
+     * Write DataSS_Object without triggering this extension's hooks.
      *
      * @throws Exception
      */

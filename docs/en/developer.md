@@ -457,7 +457,7 @@ Example:
 and the MySAMLConfiguration.php:
 
 	<?php
-	class MySAMLConfiguration extends Object {
+	class MySAMLConfiguration extends SS_Object {
 		public function asArray() {
 			return [
 				// add settings here;
