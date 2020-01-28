@@ -4,7 +4,7 @@
  *
  * An individual mapping of an LDAP group to a SilverStripe {@link Group}
  */
-class LDAPGroupMapping extends SS_Object
+class LDAPGroupMapping extends DataObject
 {
     /**
      * @var array
